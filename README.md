@@ -1,4 +1,4 @@
 # ygo-opener
 
-Code taken from another repo (link needs to be added)
+Code taken from [another repo](https://github.com/adosreis/Yugioh-Pack-Opening-Simulator)
 Random pack opening for YGO Pro
